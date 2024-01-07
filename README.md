@@ -2,7 +2,7 @@
 
 
 ## About Me
-Hello! I'm Caio, a passionate individual on the path to becoming a Data Analyst 📊, Data Scientist 🔍, and Business Analyst 📈. Currently pursuing a Bachelor's in Computer Science & IT, I am fervently engaged in honing my skills and knowledge in data analytics. My expertise lies in Python, R, SQL, and data visualization, and I am committed to leveraging these skills to unearth insights and drive strategic success.
+Hello! I'm Caio, a passionate individual on the path to becoming a Data Analyst 📊, Data Scientist 🔍, and Business Analyst 📈. Currently pursuing a Bachelor's in Computer Science & IT, I am actively working to improve my skills and knowledge in data analytics. My expertise lies in Python, R, SQL, and data visualization, and I am dedicated to using these skills to discover valuable information and achieve strategic goals.
 
 
 ## Skills
