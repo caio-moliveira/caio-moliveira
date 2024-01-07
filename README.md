@@ -7,9 +7,9 @@ Hello! I'm Caio, a passionate individual on the path to becoming a Data Analyst 
 
 
 ## Skills
-- ![](https://img.shields.io/badge/Code-SQL-blue) 
-- ![](https://img.shields.io/badge/Code-Python-yellow) 
-- ![](https://img.shields.io/badge/Code-R-blue)
+<p align="left">
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
 ## Let's Connect!
 I am always on the lookout for opportunities to collaborate and harness data for impactful decision-making and innovation. If you're interested in connecting or discussing potential opportunities, feel free to reach out!
