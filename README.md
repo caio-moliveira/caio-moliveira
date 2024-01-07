@@ -5,7 +5,6 @@
 ## About Me
 Hello! I'm Caio, a passionate individual on the path to becoming a Data Analyst 📊, Data Scientist 🔍, and Business Analyst 📈. Currently pursuing a Bachelor's in Computer Science & IT, I am fervently engaged in honing my skills and knowledge in data analytics. My expertise lies in Python, R, SQL, and data visualization, and I am committed to leveraging these skills to unearth insights and drive strategic success.
 
-I hold the Google Data Analytics Professional Certificate 🏅, which underscores my dedication and proficiency in data analytics and predictive modeling. With a background in customer service and management, I possess strong interpersonal and analytical skills that enable me to excel in diverse and fast-paced environments. I am constantly seeking to learn and grow, with a particular interest in the intersections of health, technology, and culture.
 
 ## What I Do
 As an aspiring data professional, I am adept at:
@@ -23,7 +22,7 @@ I am always on the lookout for opportunities to collaborate and harness data for
 
 Let's make data-driven decisions together and explore the vast realm of possibilities that data offers!
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/caio-moliveira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/caiomoliveira//)  
 
 
 
