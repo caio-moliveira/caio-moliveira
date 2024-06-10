@@ -14,14 +14,12 @@ Hello! I'm Caio, a passionate Data Scientist. Currently pursuing a Bachelor's in
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftazure/microsoftazure-original.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">&nbsp;
 </div>
 
 
