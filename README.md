@@ -2,7 +2,10 @@
 
 
 ## About Me
-Hello! I'm Caio, a passionate Data Scientist. Currently pursuing a Bachelor's in Computer Science & IT, I am actively working to improve my skills and knowledge in data analytics. My expertise lies in Python, R, SQL, and data visualization, and I am dedicated to using these skills to discover valuable information and achieve strategic goals.
+Hello! I'm Caio! I am a BSc Computer Science graduate with a passion for making effective use of data. From the initial ideas around what to measure and how to capture data accurately, through data preparation, analysis, and management, to the impactful presentation of insights, I can support each step of the process. My goal is to enable organizations to make evidence-driven decisions and share insights with new audiences.
+
+I'm passionate about the transformative power of AI and how it has reshaped our world. My robust academic background and independent projects in data extraction and insight generation reflect my ability to apply theoretical knowledge in practical settings. I am particularly drawn to machine learning and deep learning, fields where I aspire to make significant contributions. I believe everyone wants to leave their mark, and for me, leveraging AI as a data scientist is the path to achieving that goal.
+
 
 
 
