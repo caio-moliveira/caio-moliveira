@@ -7,7 +7,9 @@ Hello! I'm Caio, a passionate Data Scientist. Currently pursuing a Bachelor's in
 
 ## Skills
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
 ## Languages and Tools:
@@ -27,8 +29,7 @@ Hello! I'm Caio, a passionate Data Scientist. Currently pursuing a Bachelor's in
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
 
- <a href="https://github.com/caio-moliveira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=caio-moliveira&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Caio's github stats" /></a> | <a href="https://github.com/caio-moliveira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-moliveira&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 ## Let's Connect!
 I am always on the lookout for opportunities to collaborate and harness data for impactful decision-making and innovation. If you're interested in connecting or discussing potential opportunities, feel free to reach out!
