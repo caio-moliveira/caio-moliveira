@@ -25,6 +25,16 @@ I'm passionate about the transformative power of AI and how it has reshaped our 
 </div>
 
 
+## Certifications 📜
+
+
+Power BI Applied to Business | May. 2024
+Data Manipulation in SQL | Apr. 2024
+Google Data Analytics Certificate | Jan. 2024
+AWS Cloud Foundations | Jan. 2024
+Diploma in Python Programming at CCT College Dublin | Aug. 2023
+Diploma in Predictive Data Analytics at CCT College Dublin | Aug. 2023
+
 
 
 ## Let's Connect!
