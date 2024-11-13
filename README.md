@@ -1,9 +1,3 @@
-<div align="center">
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">](https://github.com/caio-moliveira)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">](https://www.linkedin.com/in/caiomoliveira/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="40">](https://medium.com/@moliveiracaio)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle" height="40">](https://www.kaggle.com/caiomoliveira1)
 
 ## 👋 Welcome to My GitHub Profile!
 
@@ -28,7 +22,6 @@ I’m Caio Oliveira, a data engineer passionate about leveraging technology to s
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dbt.svg" alt="dbt-core" height="40">](https://www.getdbt.com/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pydantic.svg" alt="pydantic" height="40">](https://pydantic-docs.helpmanual.io/)
 
-</div>
 
 ---
 
