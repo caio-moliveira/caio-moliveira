@@ -14,9 +14,9 @@
 
 ## 🧠 About Me
 
-My journey in tech started with a bold move—leaving Brazil to study Computing and IT in Dublin. Living abroad shaped my worldview and deepened my technical skills while teaching me adaptability and resilience. Today, as a Data Engineer, I specialize in building scalable data pipelines, real-time ingestion systems, and interactive dashboards that power business insights.
+My journey in tech started with a bold move, leaving Brazil to study Computing and IT in Dublin. Living abroad made my worldview and deepened my technical skills while teaching me adaptability and resilience. Today, as a Data Engineer, I specialize in building scalable data pipelines, real-time ingestion systems, and interactive dashboards that power business insights.
 
-I'm also a mentor and technical instructor, passionate about helping others grow in the data space. I thrive in global, fast-paced environments and enjoy transforming raw data into meaningful solutions.
+I'm also a mentor and technical instructor, passionate about helping others Data Engineers or people turning their carrers to Data Engineers grow in the data space.
 
 ---
 
