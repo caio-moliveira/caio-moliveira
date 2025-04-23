@@ -22,29 +22,40 @@ I'm also a mentor and technical instructor, passionate about helping others grow
 
 ## 🔧 Tech Stack
 
+**Languages & Frameworks**
 <p align="left">
 
+
 <!-- Languages & Frameworks -->
-**Languages & Frameworks**
+
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://github.com/user-attachments/assets/92f6bf7c-f6dd-480f-95c7-b1d399dfc495" alt="FastAPI" width="40" height="40"/></a>
+</p>
 
 <!-- Data & Storage -->
-
+**Data & Storage**
+<p align="left">
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
 <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
 <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/></a>
+</p>
 
 <!-- Workflow & Orchestration -->
+**Workflow & Orchestration**
+<p align="left">
 <a href="https://airflow.apache.org/"><img src="https://github.com/user-attachments/assets/663a0f3e-0826-4ca1-be45-29419ff0b524" alt="Airflow" width="40" height="40"/></a>
 <a href="https://www.getdbt.com/"><img src="https://github.com/user-attachments/assets/2a98601b-8b85-4cc7-b5ee-e65fc3f52668" alt="dbt" width="40" height="40"/></a>
 <a href="https://n8n.io/"><img src="https://github.com/user-attachments/assets/719f1aa5-ef60-40ce-89cb-abb22755a051" alt="n8n" width="40" height="40"/></a>
+</p>
 
 <!-- Cloud & DevOps -->
+
+**Cloud & DevOps**
+<p align="left">
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
