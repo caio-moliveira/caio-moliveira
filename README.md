@@ -62,8 +62,7 @@
   </a>
   <!-- dbt -->
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/2a98601b-8b85-4cc7-b5ee-e65fc3f52668)
-" alt="dbt" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/2a98601b-8b85-4cc7-b5ee-e65fc3f52668" alt="dbt" width="40" height="40"/>
   </a>
   <!-- Airflow -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
