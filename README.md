@@ -86,7 +86,7 @@
   </a>
   <!-- n8n -->
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/N/n8n-logo-470809/Logo-Vector.svg" alt="n8n" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/719f1aa5-ef60-40ce-89cb-abb22755a051" alt="n8n" width="40" height="40"/>
   </a>
 </p>
 
