@@ -95,7 +95,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caio-moliveira&show_icons=true&locale=en" alt="caio-moliveira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caio-moliveira&" alt="caio-moliveira" /></p>
 
 
 
