@@ -91,7 +91,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caio-moliveira&show_icons=true&locale=en&layout=compact" alt="caio-moliveira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caio-moliveira&show_icons=true&locale=en" alt="caio-moliveira" /></p>
 
