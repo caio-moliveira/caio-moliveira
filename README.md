@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caio-moliveira&label=Profile%20views&color=0e75b6&style=flat" alt="caio-moliveira" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanceloth&theme=onedark&no-frame=true" alt="alanceloth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-moliveira&theme=onedark&no-frame=true" alt="caio-moliveira" /></a> </p>
 
 <h2>📧 Contact</h2>
 - 📫 How to reach me <a href="mailto:alan.lanceloth@gmail.com">alan.lanceloth@gmail.com</a>
