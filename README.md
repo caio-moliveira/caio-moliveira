@@ -66,11 +66,11 @@
   </a>
   <!-- Airflow -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/341607/apache-airflow.svg" alt="Airflow" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/663a0f3e-0826-4ca1-be45-29419ff0b524" alt="Airflow" width="40" height="40"/>
   </a>
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/F/fastapi-logo-499530/FASTAPI-Logo-Vector.svg" alt="FastAPI" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/92f6bf7c-f6dd-480f-95c7-b1d399dfc495" alt="FastAPI" width="40" height="40"/>
   </a>
   <!-- Snowflake -->
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
