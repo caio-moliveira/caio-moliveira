@@ -56,8 +56,6 @@ Alongside my industry work, I’m also a **technical instructor and mentor**, he
 
 ## 🛠️ Tech Stack
 
----
-
 ### 🧠 AI Engineering & LLM Ecosystem
 <p align="left">
   <a href="https://python.langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/></a>
