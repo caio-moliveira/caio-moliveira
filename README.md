@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">Data Engineer | AI Engineer | Analytics Engineer</h3>
+<h1 align="center">Hi 👋, I'm Caio Oliveira</h1>
+<h3 align="center">
+Senior AI Engineer · Data Engineer · Analytics Engineer
+</h3>
+
+<p align="center">
+Building production-grade AI systems that turn data and documents into decisions.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caiomoliveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:moliveiracaio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
   </a>
 </p>
 
@@ -14,71 +20,135 @@
 
 ## 🧠 About Me
 
-My journey in tech started with a bold move, leaving Brazil to study Computing and IT in Dublin. Living abroad made my worldview and deepened my technical skills while teaching me adaptability and resilience. Today, as a Data Engineer, I specialize in building scalable data pipelines, real-time ingestion systems, and interactive dashboards that power business insights.
+I’m an **AI Engineer and Data Engineer** specialized in designing **end-to-end intelligent automation systems** that combine **data engineering, LLMs, RAG architectures, and orchestration frameworks**.
 
-I'm also a mentor and technical instructor, passionate about helping others Data Engineers or people turning their carrers to Data Engineers grow in the data space.
+My journey started when I left Brazil to study **Computing & IT in Dublin**, where I built a strong technical foundation while developing adaptability and a global mindset. Today, I work at the intersection of **AI, data platforms, and real-world business problems**, transforming traditional workflows into **scalable, AI-driven ecosystems**.
+
+I’ve led and implemented **large-scale AI solutions in the public sector**, including intelligent agents capable of processing **millions of documents autonomously**, enabling levels of efficiency and transparency that were previously unattainable.
+
+Alongside my industry work, I’m also a **technical instructor and mentor**, helping engineers transition into **Data Engineering and AI Engineering**, with a strong focus on practical, production-ready systems.
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 What I Work On
 
-**Languages & Frameworks**
+- 🤖 **AI Agents & LLM Systems**
+  - RAG pipelines (chunking, embeddings, retrieval strategies)
+  - Agent-based architectures with memory and tools
+  - OCR + NLP for large-scale document intelligence
+
+- 🧱 **Data Engineering**
+  - ETL / ELT pipelines (batch & real-time)
+  - Data modeling and analytics engineering
+  - API-first data products
+
+- ☁️ **Cloud-Native & Scalable Architectures**
+  - Containerized services
+  - Orchestrated workflows
+  - Vector databases and hybrid search
+
+- 🎓 **Education & Mentorship**
+  - AI & Data Engineering bootcamps
+  - Technical workshops (RAG, LLMs, Vector DBs)
+  - Mentoring engineers transitioning into data & AI roles
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core Frameworks
 <p align="left">
-
-
-<!-- Languages & Frameworks -->
-
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://github.com/user-attachments/assets/92f6bf7c-f6dd-480f-95c7-b1d399dfc495" alt="FastAPI" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://github.com/user-attachments/assets/92f6bf7c-f6dd-480f-95c7-b1d399dfc495" width="40"/></a>
 </p>
 
-<!-- Data & Storage -->
-**Data & Storage**
+### Data & Storage
 <p align="left">
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-<a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+  <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/></a>
 </p>
 
-<!-- Workflow & Orchestration -->
-**Workflow & Orchestration**
+### AI & Data Platforms
+- LangChain · LangGraph · LlamaIndex  
+- Vector Databases (semantic & hybrid search)  
+- OpenAI embeddings & LLM APIs  
+- OCR + NLP pipelines  
+
+### Orchestration & Analytics
 <p align="left">
-<a href="https://airflow.apache.org/"><img src="https://github.com/user-attachments/assets/663a0f3e-0826-4ca1-be45-29419ff0b524" alt="Airflow" width="40" height="40"/></a>
-<a href="https://www.getdbt.com/"><img src="https://github.com/user-attachments/assets/2a98601b-8b85-4cc7-b5ee-e65fc3f52668" alt="dbt" width="40" height="40"/></a>
-<a href="https://n8n.io/"><img src="https://github.com/user-attachments/assets/719f1aa5-ef60-40ce-89cb-abb22755a051" alt="n8n" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/"><img src="https://github.com/user-attachments/assets/663a0f3e-0826-4ca1-be45-29419ff0b524" width="40"/></a>
+  <a href="https://www.getdbt.com/"><img src="https://github.com/user-attachments/assets/2a98601b-8b85-4cc7-b5ee-e65fc3f52668" width="40"/></a>
 </p>
 
-<!-- Cloud & DevOps -->
-
-**Cloud & DevOps**
+### Cloud & DevOps
 <p align="left">
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 </p>
+
+---
+
+## 🏢 Professional Experience
+
+### **Senior AI Engineer**
+**Tribunal de Contas do Estado de Minas Gerais (TCEMG)**  
+📅 Jul 2025 – Present
+
+- Leading the institution’s **first large-scale AI initiatives** across public-sector operations.
+- Co-developed an **intelligent chatbot** using RAG, OCR, agent memory, and orchestration frameworks to retrieve insights from complex legal and administrative documents.
+- Built **AI auditing agents** capable of analyzing ~**1 million documents per year**, enabling full-year automated auditing for the first time in the institution’s history.
+
+---
+
+### **Data Engineer**
+**Quality Engineering**  
+📅 Jul 2024 – Jun 2025
+
+- Designed and implemented **data ingestion pipelines** and APIs using Python, SQL, and Docker.
+- Translated stakeholder requirements into reliable, production-ready data products.
+- Built an **AI onboarding agent** using RAG architecture and vector databases.
+- Delivered an **AI-powered OCR + NLP workflow** for tax document analysis, reducing processing time from **7 days to ~0.5 days** for 300+ documents.
+
+---
+
+### **Technical Instructor & Mentor**
+**Jornada de Dados**  
+📅 Feb 2025 – Present
+
+- Instructor for **Data & AI Engineering bootcamps**.
+- Teach RAG architectures, LLM fundamentals, vector databases, and real-world AI system design.
+- Mentor engineers transitioning into data and AI careers.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caio-moliveira&show_icons=true&theme=default" alt="caio-moliveira GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caio-moliveira&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌍 Languages
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/caiomoliveira/) or explore more of my work here on GitHub.
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Fluent  
+- 🇪🇸 Spanish — Working Proficiency  
+- 🇫🇷 French — Beginner  
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re interested in **AI engineering, data platforms, RAG systems, or large-scale document intelligence**, feel free to connect or explore my repositories.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caio-moliveira&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=caio-moliveira&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
