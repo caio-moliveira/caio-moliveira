@@ -129,5 +129,3 @@ Alongside my industry work, I’m also a **technical instructor and mentor**, he
 ---
 
 
----
-
