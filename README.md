@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caio Oliveira</h1>
-<h3 align="center">
-Senior AI Engineer · Data Engineer · Analytics Engineer
-</h3>
+<h3 align="center">Senior AI Engineer · Data Engineering Instructor · AI Systems Builder</h3>
 
 <p align="center">
-Building production-grade AI systems that turn data and documents into decisions.
+I design and ship production AI systems that transform complex documents and data into reliable decisions.
 </p>
 
 <p align="center">
@@ -18,112 +16,98 @@ Building production-grade AI systems that turn data and documents into decisions
 
 ---
 
-## 🧠 About Me
+## 🧭 Executive Profile
 
-I’m an **AI Engineer and Data Engineer** specialized in designing **end-to-end intelligent automation systems** that combine **data engineering, LLMs, RAG architectures, and orchestration frameworks**.
+AI Engineer focused on **LLM systems, autonomous agents, and data-intensive AI platforms**. I work across the full lifecycle: architecture, retrieval engineering, orchestration, observability, and production deployment.
 
-My journey started when I left Brazil to study **Computing & IT in Dublin**, where I built a strong technical foundation while developing adaptability and a global mindset. Today, I work at the intersection of **AI, data platforms, and real-world business problems**, transforming traditional workflows into **scalable, AI-driven ecosystems**.
-
-I’ve led and implemented **large-scale AI solutions in the public sector**, including intelligent agents capable of processing **millions of documents autonomously**, enabling levels of efficiency and transparency that were previously unattainable.
-
-Alongside my industry work, I’m also a **technical instructor and mentor**, helping engineers transition into **Data Engineering and AI Engineering**, with a strong focus on practical, production-ready systems.
-
----
-
-## 🚀 What I Work On
-
-- 🤖 **AI Agents & LLM Systems**
-  - RAG pipelines (chunking, embeddings, retrieval strategies)
-  - Agent-based architectures with memory and tools
-  - OCR + NLP for large-scale document intelligence
-
-- 🧱 **Data Engineering**
-  - ETL / ELT pipelines (batch & real-time)
-  - Data modeling and analytics engineering
-  - API-first data products
-
-- ☁️ **Cloud-Native & Scalable Architectures**
-  - Containerized services
-  - Orchestrated workflows
-  - Vector databases and hybrid search
-
-- 🎓 **Education & Mentorship**
-  - AI & Data Engineering bootcamps
-  - Technical workshops (RAG, LLMs, Vector DBs)
-  - Mentoring engineers transitioning into data & AI roles
+My specialization is building **high-impact AI solutions in regulated and document-heavy environments**, combining:
+- **RAG architectures** (retrieval quality, chunking strategy, embeddings, vector search)
+- **Agentic workflows** (tool use, memory, stateful orchestration)
+- **Data/ML engineering foundations** (pipelines, reliability, performance, governance)
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-### 🧠 AI Engineering & LLM Ecosystem
-<p align="left">
-  <a href="https://python.langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/></a>
-  <a href="https://langchain-ai.github.io/langgraph/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/></a>
-  <a href="https://www.llamaindex.ai/"><img src="https://avatars.githubusercontent.com/u/105935627?s=200&v=4" width="40"/></a>
-  <a href="https://platform.openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/></a>
-  <a href="https://qdrant.tech/"><img src="https://qdrant.tech/favicon.ico" width="40"/></a>
+### **Senior AI Engineer** · Tribunal de Contas do Estado de Minas Gerais (TCEMG)
+**Jul 2025 – Present**
+
+- Leading the implementation of AI initiatives across public-sector business areas, including the institution’s first large-scale AI programs.
+- Co-developed an intelligent legal/administrative assistant with **LangChain, LangGraph, and LlamaIndex**, integrating **RAG, OCR, and memory-enabled agents**.
+- Built AI auditing agents that analyze approximately **1M documents per year**, enabling complete annual processing for the first time in the institution’s history.
+
+### **Technical Monitor & Instructor (Data Engineering / AI Engineering)** · Jornada de Dados
+**Feb 2025 – Present**
+
+- Delivering advanced workshops and bootcamps covering **RAG design**, **Transformer foundations**, and **LLM implementation** for business use cases.
+- Producing technical content and mentoring engineers through practical projects in **semantic search**, **vector databases**, and **intelligent data workflows**.
+
+---
+
+## 🚀 Featured Repositories
+
+- **[ai-engineer-roadmap](https://github.com/caio-moliveira/ai-engineer-roadmap)**
+  Structured learning path for AI Engineers, from fundamentals to production architecture.
+
+- **[workshop-ai-agent](https://github.com/caio-moliveira/workshop-ai-agent)**
+  Practical workshop repository focused on building AI agents with orchestration, tools, and real-world workflows.
+
+- **[rag-project](https://github.com/caio-moliveira/rag-project)**
+  End-to-end RAG pipeline using **LangChain, LangGraph, Qdrant, and Langfuse** with a production-oriented architecture.
+
+---
+
+## 🧠 Core AI Engineering Skills
+
+### LLM & Agent Systems
+- Retrieval-Augmented Generation (RAG) architecture and optimization
+- Agent design with tool calling, memory, and multi-step reasoning flows
+- Prompt/system design for robustness, consistency, and safety
+
+### Retrieval & Knowledge Infrastructure
+- Chunking strategy design (semantic, fixed, and hybrid)
+- Embedding model evaluation and retrieval quality tuning
+- Vector search pipelines with hybrid retrieval and reranking patterns
+
+### Data & Platform Engineering for AI
+- ETL/ELT for AI-ready datasets (batch and near real-time)
+- API-first backend services for AI products
+- Monitoring and evaluation for LLM applications (latency, quality, traceability)
+
+### Production & Scale
+- Deployment patterns for cloud-native AI systems
+- Cost/performance tradeoff analysis for model and infrastructure choices
+- Reliability and observability in mission-critical AI workflows
+
+---
+
+## 🛠️ Technology Stack
+
+### AI / LLM Ecosystem
+`LangChain` · `LangGraph` · `LlamaIndex` · `OpenAI API` · `Qdrant` · `Langfuse`
+
+### Backend & Services
+`Python` · `FastAPI` · `Pydantic` · `Uvicorn`
+
+### Data Engineering
+`Pandas` · `NumPy` · `dbt` · `Apache Airflow`
+
+### Databases & Storage
+`PostgreSQL` · `MongoDB` · `Redis` · `Snowflake`
+
+### Cloud & DevOps
+`AWS` · `GCP` · `Azure` · `Docker` · `Git` · `Linux`
+
+---
+
+## 🎯 Current Focus
+
+- Advancing **agentic AI systems** for large-scale document intelligence in the public sector
+- Mentoring engineers to move from data foundations into **production AI engineering**
+- Building reusable patterns for **trustworthy, observable, and scalable** LLM applications
+
+---
+
+<p align="center">
+Open to collaborations on AI Engineering, RAG platforms, and agent-based automation systems.
 </p>
-
-- RAG Architectures · AI Agents · Retrieval Systems  
-- Vector Search & Hybrid Retrieval  
-- Embeddings Pipelines · Semantic Search  
-- OCR + NLP Document Processing  
-
----
-
-### 🐍 Languages & Backend Frameworks
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></a>
-  <a href="https://pydantic.dev"><img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="40"/></a>
-  <a href="https://uvicorn.org"><img src="https://avatars.githubusercontent.com/u/50630501?s=200&v=4" width="40"/></a>
-</p>
-
----
-
-### 📊 Data Engineering & Analytics
-<p align="left">
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-  <a href="https://www.getdbt.com/"><img src="https://avatars.githubusercontent.com/u/31891521?s=200&v=4" width="40"/></a>
-  <a href="https://airflow.apache.org/"><img src="https://avatars.githubusercontent.com/u/48186859?s=200&v=4" width="40"/></a>
-</p>
-
-- ETL / ELT Pipelines  
-- Data Modeling & Analytics Engineering  
-- Batch + Real-Time Data Processing  
-
----
-
-### 🗄️ Databases, Storage & Vector Infrastructure
-<p align="left">
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/></a>
-</p>
-
-- Relational & NoSQL Databases  
-- Caching Layers & High-Performance Retrieval  
-- Vector Databases & Semantic Indexing  
-
----
-
-### ☁️ Cloud, DevOps & Infrastructure
-<p align="left">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
-  <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-</p>
-
-- Containerized Microservices  
-- Cloud-Native AI Systems  
-- CI/CD & Production Deployments  
-
----
-
-
